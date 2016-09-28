@@ -1,0 +1,9 @@
+/* This is a list of sources for events. Please add as required */
+/* The goal would be to write import functions or IFTTT recipes for the individual sources and send them all to the google calendar */
+/* format: source name | source URL | source format | comments */
+
+The Wanch | http://www.thewanch.hk/?ical=events | ical file | could be imported 1:1
+Songkick | http://www.songkick.com/developer | Api | need to filter for hong kong events
+Bandsintown | http://www.bandsintown.com/api/overview | Api | seems to be made for facebook
+Eventful | http://api.eventful.com/ | Api | 
+The Underground | http://undergroundhk.com/feed/ | RSS Feed | does not contain full information
