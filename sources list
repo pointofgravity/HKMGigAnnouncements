@@ -7,3 +7,4 @@ Songkick | http://www.songkick.com/developer | Api | need to filter for hong kon
 Bandsintown | http://www.bandsintown.com/api/overview | Api | seems to be made for facebook
 Eventful | http://api.eventful.com/ | Api | 
 The Underground | http://undergroundhk.com/feed/ | RSS Feed | does not contain full information
+Hidden Agenda | http://shop.hiddenagenda.hk/history | HTML | Needs to be parsed
